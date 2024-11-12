@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/chakram/static/css/main.7cf5dfc6.css",
-    "main.js": "/chakram/static/js/main.a1169139.js",
+    "main.js": "/chakram/static/js/main.d1b2485c.js",
     "static/js/453.980068b1.chunk.js": "/chakram/static/js/453.980068b1.chunk.js",
     "index.html": "/chakram/index.html",
     "main.7cf5dfc6.css.map": "/chakram/static/css/main.7cf5dfc6.css.map",
-    "main.a1169139.js.map": "/chakram/static/js/main.a1169139.js.map",
+    "main.d1b2485c.js.map": "/chakram/static/js/main.d1b2485c.js.map",
     "453.980068b1.chunk.js.map": "/chakram/static/js/453.980068b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7cf5dfc6.css",
-    "static/js/main.a1169139.js"
+    "static/js/main.d1b2485c.js"
   ]
 }
