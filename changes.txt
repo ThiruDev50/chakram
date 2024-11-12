@@ -1,0 +1,7 @@
+------------------------------------------------------
+Version  : 0.0.1
+Branch   : release/v_0.0.1
+Changes  :
+         - Basic working Expense tracker (Just functionality No good UI)
+
+------------------------------------------------------
