@@ -5,3 +5,10 @@ Changes  :
          - Basic working Expense tracker (Just functionality No good UI)
 
 ------------------------------------------------------
+------------------------------------------------------
+Version  : 0.0.2
+Branch   : release/v_0.0.2
+Changes  :
+         - Export to Excel
+         - Backend as supabase
+------------------------------------------------------
