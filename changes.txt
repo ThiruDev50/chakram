@@ -12,3 +12,8 @@ Changes  :
          - Export to Excel
          - Backend as supabase
 ------------------------------------------------------
+Version  : 0.0.3
+Branch   : release/v_0.0.3
+Changes  :
+         - Group By Date Fix
+         - Search Date Filter In Grid Fix 
