@@ -17,3 +17,14 @@ Branch   : release/v_0.0.3
 Changes  :
          - Group By Date Fix
          - Search Date Filter In Grid Fix 
+
+------------------------------------------------------
+Date: 24/July/2025
+Version: v0.0.4
+Release branch: release/v0.0.4_24_July_2025
+Component name: Genetom-Code-Editor
+Component version: v0.0.4
+Component release branch: release/v0.0.4_24_July_2025
+Changes:
+    - Create expense with AI
+    - Created a supabase function -> Gemini API
