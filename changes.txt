@@ -22,9 +22,29 @@ Changes  :
 Date: 24/July/2025
 Version: v0.0.4
 Release branch: release/v0.0.4_24_July_2025
-Component name: Genetom-Code-Editor
+Component name: Chakram
 Component version: v0.0.4
 Component release branch: release/v0.0.4_24_July_2025
 Changes:
     - Create expense with AI
     - Created a supabase function -> Gemini API
+------------------------------------------------------
+Date: 09/Aug/2025
+Version: v0.0.5
+Release branch: release/v0.0.5
+Component name: Chakram
+Component version: v0.0.5
+Component release branch: release/v0.0.5
+Changes:
+    - Add Expense Fix 
+    - Edit expense time overridden fix 
+
+Open Issue:
+    - With Timings - In search & while listing -> It is showing in UTC 
+    - Timing is messed in this code -> Lot of conversion between utc and ist 
+    - Hence added a new column called SpendDateTimeInUtcZ in ExpenseDetails Table
+        - When user created with spendDateTime the same data will be stored here -> Immutable
+------------------------------------------------------
+
+
+
